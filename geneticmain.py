@@ -1,3 +1,4 @@
+
 import random
 class Genetic:
 	def __init__(self,max_num):
